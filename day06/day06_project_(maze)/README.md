@@ -1,3 +1,3 @@
-### Maze Hurdle
+### Day06 project Maze Hurdle
 
 
