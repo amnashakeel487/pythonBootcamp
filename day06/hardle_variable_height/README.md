@@ -1,6 +1,6 @@
 ### Jumping Over Hurdles With Variable Height
 
-<img width="1600" height="899" alt="WhatsApp Image 2026-07-07 at 2 23 18 PM" src="https://github.com/user-attachments/assets/782e1358-845f-4d92-9224-e1eeb5ca26cb" />
+<img width="917" height="487" alt="WhatsApp Image 2026-07-07 at 3 04 58 PM" src="https://github.com/user-attachments/assets/b2c8202a-26a8-46ac-b5bd-5d27adb690d3" />
 
-<img width="1600" height="899" alt="WhatsApp Image 2026-07-07 at 2 25 54 PM" src="https://github.com/user-attachments/assets/2183748d-0a0b-4380-9d91-87abbae8c563" />
+<img width="917" height="487" alt="WhatsApp Image 2026-07-07 at 3 04 58 PM" src="https://github.com/user-attachments/assets/347c3805-c065-471e-a964-0ae1486d4d1f" />
 
