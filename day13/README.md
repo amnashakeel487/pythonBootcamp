@@ -1,5 +1,3 @@
-### Day13
-Here's a professional **README.md** for your **Day 13** project that matches the style of your previous days.
 
 ---
 
