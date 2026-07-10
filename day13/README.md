@@ -69,6 +69,7 @@ Explaining the problem to someone else (or using the Rubber Duck Debugging techn
 
 * Identified the incorrect use of the assignment operator (`=`) instead of the comparison operator (`==`).
 * Fixed the conditional statement to correctly determine whether a number is odd or even.
+<img width="707" height="477" alt="WhatsApp Image 2026-07-10 at 3 31 20 PM" src="https://github.com/user-attachments/assets/735e380b-b23f-4f70-b78f-94b16c7fb2ab" />
 
 ---
 
@@ -77,6 +78,7 @@ Explaining the problem to someone else (or using the Rubber Duck Debugging techn
 * Traced nested conditional statements.
 * Corrected the program logic for years divisible by 4 but not by 100.
 * Verified the leap year rules using different test cases.
+<img width="710" height="396" alt="WhatsApp Image 2026-07-10 at 3 34 46 PM" src="https://github.com/user-attachments/assets/e8e9997c-eee0-4d30-b8ca-63385c1d5530" />
 
 ---
 
@@ -85,6 +87,7 @@ Explaining the problem to someone else (or using the Rubber Duck Debugging techn
 * Fixed the order of conditional statements.
 * Replaced multiple independent `if` statements with `if-elif-else`.
 * Corrected the logic so that numbers divisible by both 3 and 5 print **FizzBuzz** instead of multiple outputs.
+<img width="547" height="316" alt="WhatsApp Image 2026-07-10 at 3 38 21 PM" src="https://github.com/user-attachments/assets/c4c80b09-9d6f-4b17-afec-f8dd8ee6cb43" />
 
 ---
 
