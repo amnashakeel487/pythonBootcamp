@@ -1,6 +1,8 @@
 from menu import MENU
 from resources import resources
+from art import logo
 
+print(logo)
 profit = 0
 
 
