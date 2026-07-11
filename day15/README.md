@@ -4,10 +4,8 @@
 
 Day 15 marks the beginning of the Intermediate Level of the 100 Days of Code: Python Bootcamp. In this project, I built a Coffee Machine Management System, a console-based application that simulates the operation of a real coffee vending machine. Alongside the project, I also learned how to set up a local Python development environment using Visual Studio Code for professional software development.
 
-
-<img width="840" height="506" alt="2" src="https://github.com/user-attachments/assets/e531ca6e-816f-4907-a6c4-f165567928ff" />
 <img width="1151" height="756" alt="1" src="https://github.com/user-attachments/assets/89f75600-df03-4f2a-a907-92b772bb969c" />
-
+<img width="840" height="506" alt="2" src="https://github.com/user-attachments/assets/e531ca6e-816f-4907-a6c4-f165567928ff" />
 
 🎯 Objectives
 Set up a local Python development environment.
