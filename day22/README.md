@@ -2,7 +2,8 @@
 
 A classic Pong Game built using **Python**, **Object-Oriented Programming (OOP)**, and the **Turtle Graphics** library. This project is part of **Day 22** of the **100 Days of Python Bootcamp**.
 
-# output screenshot
+# Output screenshot
+<img width="1011" height="797" alt="image" src="https://github.com/user-attachments/assets/592c6a6c-3d08-4b2f-a951-405a5683fe5d" />
 
 ---
 
