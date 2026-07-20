@@ -5,6 +5,11 @@ A fun arcade-style game built using **Python**, **Object-Oriented Programming (O
 This project was developed as part of **Day 23** of the **100 Days of Python Bootcamp**.
 
 ---
+<img width="762" height="797" alt="1" src="https://github.com/user-attachments/assets/0014a085-d693-42b1-aaed-bf69d351859d" />
+<img width="767" height="807" alt="2" src="https://github.com/user-attachments/assets/65a85874-2943-40c2-b873-ec3b7223899c" />
+<img width="762" height="797" alt="3" src="https://github.com/user-attachments/assets/c07ee576-3d57-4da4-9589-dd16f726c871" />
+<img width="732" height="686" alt="4" src="https://github.com/user-attachments/assets/35fdfa41-6fe9-4e75-8bbb-c9642c495e55" />
+
 
 ## 📌 Features
 
