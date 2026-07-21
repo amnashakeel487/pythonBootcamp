@@ -3,6 +3,7 @@
 A simple Python application that automatically generates personalized letters using a template and a list of recipient names. This project demonstrates Python file handling, string manipulation, and file automation.
 
 Developed as part of **Day 24** of the **100 Days of Python Bootcamp**.
+<img width="1672" height="931" alt="image" src="https://github.com/user-attachments/assets/7dd8bf47-8aee-4dbb-b2a3-d5fe4617755a" />
 
 ---
 
