@@ -118,9 +118,11 @@ Converting Celsius temperatures into Fahrenheit using Dictionary Comprehension.
 ## Description
 
 Built a command-line application that converts any English word into its corresponding NATO phonetic alphabet.
-
 Example:
+
+
 <img width="707" height="386" alt="1" src="https://github.com/user-attachments/assets/9827200f-93b3-455c-ab4b-74f84f34a856" />
+
 
 The project reads NATO alphabet data from a CSV file using the Pandas library and converts it into a dictionary using Dictionary Comprehension.
 
