@@ -32,6 +32,9 @@ The application features a graphical interface with a countdown timer, automatic
 
 ---
 
+<img width="585" height="592" alt="1" src="https://github.com/user-attachments/assets/0a575b4e-c070-42bb-82e3-1325b96e506c" />
+
+
 ## Technologies Used
 
 - Python 3
@@ -66,19 +69,6 @@ day28/
 - GUI Updates
 - Conditional Statements
 - Loops
-
----
-
-## How to Run
-
-1. Make sure Python 3 is installed.
-2. Place `tomato.png` in the same folder as `main.py`.
-3. Open a terminal or command prompt.
-4. Run the project:
-
-```bash
-python main.py
-```
 
 ---
 
