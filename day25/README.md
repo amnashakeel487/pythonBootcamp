@@ -54,6 +54,7 @@ day25/
 - Counted squirrels based on fur color.
 - Created a new DataFrame containing the analysis.
 - Exported results to a new CSV file.
+<img width="541" height="407" alt="4" src="https://github.com/user-attachments/assets/db209570-061a-42fe-aba3-22c372f23dcc" />
 
 ### 3. U.S. States Guessing Game
 - Displayed a blank U.S. map using Turtle Graphics.
@@ -61,6 +62,9 @@ day25/
 - Displayed correctly guessed states at their exact map coordinates.
 - Tracked the player's score.
 - Generated a `states_to_learn.csv` file containing all states not guessed by the player.
+<img width="952" height="851" alt="1" src="https://github.com/user-attachments/assets/b884e7b3-32f9-4794-8e03-e29e5556cd9f" />
+<img width="957" height="841" alt="2" src="https://github.com/user-attachments/assets/d9d5f37b-896c-47ed-b2af-64e657601b6f" />
+<img width="955" height="840" alt="3" src="https://github.com/user-attachments/assets/0dbad445-1b24-4be9-bbc5-91f11a57c0ce" />
 
 ---
 
