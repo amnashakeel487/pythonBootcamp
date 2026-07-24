@@ -34,9 +34,17 @@ The main project for this day is a **Miles to Kilometers Converter**, where user
 
 ---
 
+## tkinter widgets
+
+<img width="622" height="852" alt="1" src="https://github.com/user-attachments/assets/49c73a57-951d-4c80-8c08-68ef84ecefd4" />
+
+
 ## Project
 
 ### Miles to Kilometers Converter
+
+<img width="367" height="201" alt="2" src="https://github.com/user-attachments/assets/feaba4fd-c3d1-45fb-8ea8-557a10240fef" />
+
 
 ### Features
 
@@ -58,13 +66,6 @@ Kilometers = Miles × 1.609
 
 - Python 3
 - Tkinter (Built-in GUI Library)
-
----
-
-## Files
-
-- main.py
-- README.md
 
 ---
 
