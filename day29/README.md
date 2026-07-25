@@ -8,6 +8,11 @@ The project combines GUI development, password generation, file handling, clipbo
 
 ---
 
+<img width="1425" height="935" alt="1" src="https://github.com/user-attachments/assets/6c49a184-6b59-497e-a161-099508f781ed" />
+<img width="1462" height="902" alt="2" src="https://github.com/user-attachments/assets/3819465d-b628-4ae0-8eb0-b20afea5a6f0" />
+<img width="1280" height="851" alt="3" src="https://github.com/user-attachments/assets/70b6d28d-7fa0-450d-8499-532683aad6f6" />
+
+
 ## Features
 
 - User-friendly graphical interface
