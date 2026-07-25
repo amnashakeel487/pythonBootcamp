@@ -30,6 +30,9 @@ The project focuses on working with JSON files, exception handling, and improvin
 
 ---
 
+<img width="1217" height="892" alt="1" src="https://github.com/user-attachments/assets/84fe6805-ef91-4193-9959-4a9ac338eb14" />
+
+
 # Features
 
 - Graphical User Interface (Tkinter)
