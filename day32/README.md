@@ -20,7 +20,8 @@ These projects demonstrate how Python can automate repetitive tasks by combining
 - Logged into a Gmail account using an App Password
 - Sent a custom email using Python
 
-<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/18db125e-4f87-48a2-ae64-9d2450d445ef" />
+<img width="328" height="582" alt="image" src="https://github.com/user-attachments/assets/e43c2611-37f9-4686-ba1a-cce992529ef1" />
+
 
 
 ### 2. Sunday Motivation
