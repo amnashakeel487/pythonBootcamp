@@ -31,8 +31,7 @@ These projects demonstrate how Python can automate repetitive tasks by combining
 - Selected a random quote
 - Automatically emailed the quote every Monday
 
-<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/1fcda432-ce2a-42f1-821d-171a4da7cf92" />
-
+<img width="335" height="580" alt="image" src="https://github.com/user-attachments/assets/bcecd274-6f04-43d9-8956-efccc6ce4059" />
 
 ### 3. Birthday Wisher
 
@@ -42,7 +41,7 @@ These projects demonstrate how Python can automate repetitive tasks by combining
 - Replaced the recipient's name dynamically
 - Automatically sent a personalized birthday email
 
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/10617cbb-b7f7-4d25-840d-db42d67083f6" />
+<img width="336" height="475" alt="image" src="https://github.com/user-attachments/assets/f472728e-f161-4ff8-8158-771c50df5d0c" />
 
 
 ---
