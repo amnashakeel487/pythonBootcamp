@@ -20,12 +20,18 @@ These projects demonstrate how Python can automate repetitive tasks by combining
 - Logged into a Gmail account using an App Password
 - Sent a custom email using Python
 
+<img width="328" height="582" alt="image" src="https://github.com/user-attachments/assets/e43c2611-37f9-4686-ba1a-cce992529ef1" />
+
+
+
 ### 2. Sunday Motivation
 
 - Checked the current day using the `datetime` module
 - Read motivational quotes from a text file
 - Selected a random quote
 - Automatically emailed the quote every Monday
+
+<img width="335" height="580" alt="image" src="https://github.com/user-attachments/assets/bcecd274-6f04-43d9-8956-efccc6ce4059" />
 
 ### 3. Birthday Wisher
 
@@ -34,6 +40,9 @@ These projects demonstrate how Python can automate repetitive tasks by combining
 - Selected a random birthday letter template
 - Replaced the recipient's name dynamically
 - Automatically sent a personalized birthday email
+
+<img width="336" height="475" alt="image" src="https://github.com/user-attachments/assets/f472728e-f161-4ff8-8158-771c50df5d0c" />
+
 
 ---
 
