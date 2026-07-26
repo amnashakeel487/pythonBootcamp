@@ -8,6 +8,9 @@ The app also tracks learning progress by removing words the user already knows a
 
 ---
 
+<img width="1121" height="946" alt="1" src="https://github.com/user-attachments/assets/8560a3cc-e77b-478e-8a9a-474929d3cf70" />
+<img width="1127" height="947" alt="2" src="https://github.com/user-attachments/assets/791f2d29-f03d-4de6-b393-4ddea2b82135" />
+
 ## Features
 
 - Display random French vocabulary.
