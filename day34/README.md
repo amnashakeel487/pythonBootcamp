@@ -12,6 +12,13 @@ The Quizzler App connects to the Open Trivia Database API to fetch trivia questi
 
 ---
 
+<img width="432" height="675" alt="1" src="https://github.com/user-attachments/assets/b36cc566-1386-4861-84f1-2e7cd1807db2" />
+<img width="420" height="676" alt="3" src="https://github.com/user-attachments/assets/08e2c533-966f-4bf7-bc96-1bdaed261522" />
+<img width="422" height="682" alt="2" src="https://github.com/user-attachments/assets/151d38c0-ac31-4de7-ba41-3822c38cdbb8" />
+<img width="425" height="677" alt="4" src="https://github.com/user-attachments/assets/bb985b56-9c34-45dd-be79-b79b5bbc2ba5" />
+
+
+
 ## ✨ Features
 
 - Retrieve live trivia questions from the Open Trivia API
@@ -67,34 +74,6 @@ During this project, the following concepts were practiced:
 - Event handling in GUI applications
 - Scheduling tasks with the `after()` method
 - Decoding HTML entities using the `html` module
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd day34
-```
-
-### 3. Install the required package
-
-```bash
-pip install requests
-```
-
-### 4. Run the application
-
-```bash
-python main.py
-```
 
 ---
 
