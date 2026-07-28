@@ -10,6 +10,9 @@ This project demonstrates how multiple APIs can work together to automate real-w
 
 ---
 
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/709a5a9c-9391-4a0c-ab29-95c550ecb4e5" />
+
+
 ## 🚀 Features
 
 - Accepts exercise input in natural language.
