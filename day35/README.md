@@ -28,6 +28,9 @@ On Day 35 of the **100 Days of Python Bootcamp**, I explored how to work with se
 
 ---
 
+<img width="1917" height="1052" alt="1" src="https://github.com/user-attachments/assets/03d54e00-4d15-4f5d-807d-4e876265a6db" />
+
+
 ## 📚 Concepts Learned
 
 - What APIs are and how they work
