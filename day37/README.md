@@ -6,6 +6,10 @@ On Day 37 of the **100 Days of Python Bootcamp**, I built a Habit Tracker applic
 
 ---
 
+<img width="1917" height="1077" alt="1" src="https://github.com/user-attachments/assets/df73eca4-4fb0-474b-b5a2-c31bf250e4ea" />
+<img width="1917" height="1077" alt="2" src="https://github.com/user-attachments/assets/95df0a7e-2205-47b2-a906-0f2bbf05acb7" />
+
+
 ## 🚀 Project Features
 
 - Create a Pixela user account
