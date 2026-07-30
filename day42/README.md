@@ -8,6 +8,8 @@ The project demonstrates how different HTML elements work together to build an a
 
 ---
 
+<img width="1917" height="1077" alt="1" src="https://github.com/user-attachments/assets/7eb6adfe-2e35-4cfc-8187-f45f9c9cfe1a" />
+
 ## 🚀 Features
 
 - Created a Birthday Invitation webpage
