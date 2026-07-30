@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated data (keep the repo clean; products.csv is user-specific)
+data/products.csv
+data/history/
+
+# OS/editor
+.DS_Store
+.vscode/
