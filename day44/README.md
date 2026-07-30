@@ -8,6 +8,15 @@ To apply these concepts, I built a Motivational Poster webpage by styling HTML e
 
 ---
 
+# CSS Colors
+
+<img width="1917" height="1077" alt="1" src="https://github.com/user-attachments/assets/791d0e0b-3d44-467e-92a2-d0f031a4b0f1" />
+
+# CSS box model
+
+<img width="1917" height="1077" alt="2" src="https://github.com/user-attachments/assets/9252cf48-6cdb-476a-86d0-4b1d677d4f22" />
+
+
 ## 🚀 Features
 
 - Styled webpages using CSS
