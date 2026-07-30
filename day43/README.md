@@ -8,6 +8,9 @@ As part of this lesson, I created a simple Color Vocabulary website where differ
 
 ---
 
+<img width="1917" height="1077" alt="1" src="https://github.com/user-attachments/assets/9f821af3-5ac3-4764-932b-3b8ab4f168a6" />
+
+
 ## 🚀 Features
 
 - Styled HTML using CSS
