@@ -8,6 +8,8 @@ The webpage displays a personal list of favorite movies using headings, paragrap
 
 ---
 
+<img width="936" height="552" alt="1" src="https://github.com/user-attachments/assets/7aa740ad-2d9c-4779-a683-4f1fc4d4aa36" />
+
 ## 🚀 Features
 
 - Created a complete HTML5 document
