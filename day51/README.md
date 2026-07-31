@@ -8,6 +8,9 @@ The project demonstrates browser automation, dynamic web interaction, and data e
 
 ---
 
+<img width="1301" height="987" alt="image" src="https://github.com/user-attachments/assets/464f95df-58a0-448e-9219-a443c9cea720" />
+
+
 ## 🚀 Features
 
 - Launches Chrome automatically
