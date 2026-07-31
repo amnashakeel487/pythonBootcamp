@@ -8,6 +8,8 @@ The goal of this project is to practice browser automation techniques that can b
 
 ---
 
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/54a059e2-0fee-4f1b-857a-19c04094a333" />
+
 ## 🚀 Features
 
 - Launches Chrome automatically
