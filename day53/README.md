@@ -1,6 +1,13 @@
-# 🏠 Zillow Data Entry Automation Bot
+<img width="1917" height="1077" alt="2" src="https://github.com/user-attachments/assets/783dcc5a-657a-4394-973b-51e2fcfabca7" /># 🏠 Zillow Data Entry Automation Bot
 
 This project automates the process of collecting property listings from Zillow and submitting them into a Google Form. It combines web scraping with browser automation to eliminate repetitive manual data entry.
+
+<img width="1917" height="1077" alt="1" src="https://github.com/user-attachments/assets/dadc26b9-7e2e-44a1-b11b-bf29325f4c28" />
+<img width="1917" height="1077" alt="2" src="https://github.com/user-attachments/assets/fbd63397-e258-47ca-be73-25c2451c09bc" />
+
+
+# spreedsheet of reponse
+https://docs.google.com/spreadsheets/d/1XaiAcu47Z7tuG81DuwEQ1Mg6b9COEy-hmH4_iHUiaOA/edit?usp=sharing
 
 ## Features
 
