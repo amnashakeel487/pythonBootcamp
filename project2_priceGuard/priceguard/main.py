@@ -13,10 +13,22 @@ Menu:
 from __future__ import annotations
 
 import os
+import sys
 import time
 from datetime import datetime
 
 from dotenv import load_dotenv
+
+# Windows terminals sometimes default to a non-UTF-8 codepage (e.g. cp1252),
+# which can't represent the emoji used in our log messages below and shows
+# up as a "characters could not be decoded" warning. Forcing UTF-8 output
+# here fixes that regardless of the user's console configuration.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:  # noqa: BLE001 - best-effort only, never fatal
+            pass
 
 from src.alert_manager import AlertManager
 from src.data_manager import DataManager
