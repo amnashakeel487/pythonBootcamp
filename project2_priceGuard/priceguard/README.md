@@ -8,6 +8,9 @@ The application is built using Object-Oriented Programming principles and demons
 
 ---
 
+<img width="1262" height="620" alt="image" src="https://github.com/user-attachments/assets/23928170-00ea-478f-a996-30a618b81a29" />
+
+
 # ✨ Features
 
 * Track multiple products simultaneously
