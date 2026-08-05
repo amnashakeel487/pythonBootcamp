@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "The Mountains",
+    "subtitle": "Exploring nature",
+    "body": "Mountains are beautiful places to visit."
+  },
+  {
+    "id": 2,
+    "title": "Python Flask",
+    "subtitle": "Building websites with Python",
+    "body": "Flask is a lightweight web framework."
+  },
+  {
+    "id": 3,
+    "title": "100 Days of Python",
+    "subtitle": "My coding journey",
+    "body": "Learning Python every day and building projects."
+  }
+]
