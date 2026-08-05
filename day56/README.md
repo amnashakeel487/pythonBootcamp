@@ -4,6 +4,9 @@
 
 This project demonstrates how to build a professional portfolio website using Flask. It introduces HTML templates, static files, and the Jinja2 template engine to separate frontend and backend code.
 
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/c9c2d4c2-1ad4-42bf-a31c-8b289840992a" />
+
+
 ## Features
 
 - Flask Web Server
