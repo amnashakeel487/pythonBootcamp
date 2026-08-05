@@ -15,6 +15,10 @@ This project demonstrates how to use the Jinja templating engine in Flask to cre
 - Loop Through Data
 - Dynamic HTML Rendering
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4cf4d9af-508c-4248-a661-f29a959954f8" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8ad371d7-5ed9-44b1-a078-867fc50cf091" />
+
+
 ## Technologies Used
 
 - Python
