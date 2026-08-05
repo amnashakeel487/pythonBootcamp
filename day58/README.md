@@ -14,6 +14,12 @@ The main focus of this project was not backend functionality, but learning how p
 
 ---
 
+<img width="1905" height="967" alt="image" src="https://github.com/user-attachments/assets/2703e002-8c57-429a-ae56-8320372f99b8" />
+<img width="1902" height="932" alt="image" src="https://github.com/user-attachments/assets/311867dd-8c4b-4bea-9507-cfd4d9c22a17" />
+<img width="1891" height="935" alt="image" src="https://github.com/user-attachments/assets/061dad1e-1b17-48f4-876d-8d204ee8114c" />
+<img width="1918" height="448" alt="image" src="https://github.com/user-attachments/assets/ee2380a8-9759-4e70-b636-dc3e0380a9bc" />
+
+
 # 🎯 Project Goals
 
 Through this project, I aimed to:
