@@ -1,7 +1,5 @@
 # 📚 Virtual Bookshelf - Flask Database Application
 
-![Project Preview](screenshots/project-preview.png)
-
 ## 📌 Project Overview
 
 This project was completed as part of **Day 63 of the 100 Days of Python Bootcamp**, focusing on working with **SQLite databases** and **SQLAlchemy ORM** in Flask.
@@ -11,6 +9,9 @@ The application is a simple **Virtual Bookshelf** where users can store, view, u
 This project introduces **CRUD operations** and database modeling, two fundamental concepts in modern web development.
 
 ---
+
+<img width="957" height="420" alt="image" src="https://github.com/user-attachments/assets/aa4b4650-68b2-4a2c-8e23-7f5a755260ec" />
+
 
 # 🎯 Project Goals
 
