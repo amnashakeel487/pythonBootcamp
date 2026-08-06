@@ -1,7 +1,5 @@
 # 🎨 Web Design School
 
-![Design Preview](screenshots/design-preview.png)
-
 ## 📌 Project Overview
 
 **Web Design School** was a learning module completed as part of the **100 Days of Python Bootcamp (Day 65)**.
