@@ -1,6 +1,5 @@
 # 📝 Building Advanced Forms with Flask-WTF
 
-![Project Preview](screenshots/project-preview.png)
 
 ## 📌 Project Overview
 
@@ -9,6 +8,12 @@ This project was completed as part of **Day 61 of the 100 Days of Python Bootcam
 The primary goal was to understand how to create reusable forms, validate user input, and protect applications against CSRF attacks while integrating forms with Flask templates and Bootstrap for a better user experience.
 
 ---
+
+<img width="835" height="362" alt="image" src="https://github.com/user-attachments/assets/a03e567f-1824-4dc8-ab6e-0fb62c0314af" />
+<img width="1571" height="581" alt="image" src="https://github.com/user-attachments/assets/b5b3b533-496b-403e-9fb6-0a8eb15f1c54" />
+<img width="1163" height="700" alt="image" src="https://github.com/user-attachments/assets/75fbfe83-9421-42bf-9ec1-78112bb40395" />
+<img width="1137" height="705" alt="image" src="https://github.com/user-attachments/assets/0b3633a6-3ae3-4987-b899-9115366aec04" />
+
 
 # 🎯 Project Goals
 
