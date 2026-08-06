@@ -1,23 +1,12 @@
-{% extends 'base.html' %}
-{% block title %}Coffee and Wifi{% endblock %}
-
+{% extends "base.html" %}
+{% block title %}Secrets{% endblock %}
 {% block content %}
-<div class="jumbotron text-center">
-  <div class="container">
-    <h1 class="display-4">☕️ Coffee & Wifi 💻</h1>
-    <p class="lead">Want to work in a cafe but need power and wifi?</p>
-    <hr class="my-4" />
-    <p>
-      You've found the right place! Checkout my collection of cafes with data on
-      power socket availability, wifi speed and coffee quality.
-    </p>
-    <a
-      class="btn btn-warning btn-lg"
-      href="{{ url_for('cafes') }}"
-      role="button"
-      >Show Me!</a
-    >
-  </div>
+<!--Using Boostrap classes for styling here-->
+<div class="jumbotron">
+	<div class="container">
+		<h1>Welcome</h1>
+		<p>Are you ready to discover my secret?</p>
+		<a class="btn btn-primary btn-lg" href=" {{ url_for('login') }} ">Login</a>
+	</div>
 </div>
-
 {% endblock %}
