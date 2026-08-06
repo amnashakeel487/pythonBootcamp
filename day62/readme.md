@@ -10,6 +10,10 @@ This project combines **Flask**, **Flask-WTF**, **Bootstrap**, and **CSV file ha
 
 ---
 
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/71eafaf6-602f-4b52-b999-e39df54a95b0" />
+<img width="1913" height="600" alt="image" src="https://github.com/user-attachments/assets/c802830b-eee7-44b8-8ae0-4fad7761773c" />
+
+
 # 🎯 Project Goals
 
 The objectives of this project were to:
