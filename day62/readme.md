@@ -2,11 +2,11 @@
 
 ## 📌 Project Overview
 
-**Coffee & WiFi Finder** is a responsive Flask web application developed as part of **Day 61 of the 100 Days of Python Bootcamp**.
+This project was developed as part of **Day 62 of the 100 Days of Python Bootcamp**.
 
-The application allows users to browse cafés suitable for studying or remote work and submit new café information through a validated web form. Instead of using a database, all café records are stored in a **CSV file**, making this project an excellent introduction to persistent data storage before learning SQL databases.
+The application allows users to browse cafés that are suitable for studying or remote work and submit new café information through a validated form. Instead of using a database, the project stores café records in a **CSV file**, providing an introduction to persistent data storage before working with SQL databases.
 
-This project combines **Flask**, **WTForms**, **Bootstrap**, and **CSV file handling** to build a complete multi-page web application.
+This project combines **Flask**, **Flask-WTF**, **Bootstrap**, and **CSV file handling** to build a complete multi-page web application.
 
 ---
 
@@ -14,12 +14,12 @@ This project combines **Flask**, **WTForms**, **Bootstrap**, and **CSV file hand
 
 The objectives of this project were to:
 
-* Build a multi-page Flask application.
-* Create forms using Flask-WTF and WTForms.
-* Validate user input before processing.
-* Read and write data using CSV files.
-* Display dynamic café information in HTML.
-* Design responsive pages with Bootstrap.
+* Build a complete Flask web application.
+* Create validated forms using Flask-WTF.
+* Read and write data to CSV files.
+* Display café information dynamically.
+* Build responsive pages using Bootstrap.
+* Practice organizing a multi-page Flask project.
 
 ---
 
@@ -27,26 +27,25 @@ The objectives of this project were to:
 
 ## 🏠 Home Page
 
-* Welcome page introducing the application
-* Simple navigation to other pages
+* Welcome page
+* Navigation between pages
 
 ## 📋 Café Directory
 
-* Displays all cafés stored in the CSV file
-* Dynamic HTML table generated from CSV data
-* Easy-to-read ratings for coffee, WiFi, and power outlets
+* Dynamic table of cafés
+* Displays location, opening hours, coffee quality, WiFi strength, and power outlet ratings
 
 ## ➕ Add Café
 
-* User-friendly form built with WTForms
-* Input validation for required fields and URLs
-* Stores new café information in the CSV file
+* WTForms-powered submission form
+* Validation for required fields and URLs
+* Automatically saves new cafés to the CSV file
 
 ## 📱 Responsive Design
 
-* Bootstrap-powered responsive layout
-* Mobile-friendly forms and tables
-* Clean and modern user interface
+* Bootstrap-based layout
+* Mobile-friendly interface
+* Clean and modern design
 
 ---
 
@@ -71,18 +70,17 @@ The objectives of this project were to:
 
 * VS Code
 * Git & GitHub
-* Browser Developer Tools
 
 ---
 
 # 📂 Project Structure
 
 ```text
-day61-coffee-wifi/
+day62-coffee-wifi/
 │
-├── main.py                 # Flask application
-├── forms.py                # WTForms form definitions
-├── cafe-data.csv           # Café data storage
+├── main.py
+├── forms.py
+├── cafe-data.csv
 │
 ├── templates/
 │   ├── index.html
@@ -91,9 +89,8 @@ day61-coffee-wifi/
 │   └── base.html
 │
 ├── static/
-│   ├── css/
-│   │   └── styles.css
-│   └── images/
+│   └── css/
+│       └── styles.css
 │
 ├── screenshots/
 │   └── project-preview.png
@@ -105,49 +102,22 @@ day61-coffee-wifi/
 
 # 📚 What I Learned
 
-## 1. Flask-WTF & WTForms
-
-* Creating reusable forms
-* Built-in validation
-* Secure form submission
-
-## 2. HTTP Form Handling
-
-* GET requests
-* POST requests
-* Processing submitted form data
-
-## 3. CSV File Handling
-
-* Reading CSV files
-* Appending new records
-* Displaying stored data dynamically
-
-## 4. Bootstrap Integration
-
-* Responsive forms
-* Styled tables
-* Navigation components
-* Mobile-friendly layouts
-
-## 5. Flask Templates
-
-* Rendering dynamic pages
-* Passing data to Jinja templates
-* Organizing reusable templates
+* Working with Flask-WTF in real applications
+* Reading and writing CSV files
+* Processing validated form data
+* Rendering dynamic data with Jinja2
+* Building responsive interfaces using Bootstrap
+* Structuring multi-page Flask applications
 
 ---
 
 # 🚀 Future Improvements
 
-Potential enhancements include:
-
 * Replace CSV with SQLite or PostgreSQL
-* Add search and filtering
-* Edit and delete café entries
-* User authentication
-* Interactive map integration
-* Image uploads for cafés
+* Add edit and delete functionality
+* Implement search and filtering
+* Add authentication for managing cafés
+* Deploy the application online
 
 ---
 
@@ -162,4 +132,4 @@ Software Engineering Student
 
 # ⭐ Acknowledgement
 
-This project was completed during **Day 61 of the 100 Days of Python Bootcamp**, focusing on building interactive Flask applications using WTForms, Bootstrap, and CSV-based data management.
+This project was completed during **Day 62 of the 100 Days of Python Bootcamp**, combining Flask, WTForms, Bootstrap, and CSV file handling to create a practical data-driven web application.
