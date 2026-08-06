@@ -10,6 +10,12 @@ The main goal of this project was to learn how to combine **backend development 
 
 ---
 
+<img width="1912" height="677" alt="image" src="https://github.com/user-attachments/assets/0b71664c-04d0-4a21-9b24-e5056dcc0a53" />
+<img width="1891" height="967" alt="image" src="https://github.com/user-attachments/assets/bc30c205-9077-48a0-a4ec-c259177426eb" />
+<img width="1918" height="503" alt="image" src="https://github.com/user-attachments/assets/9c26e11d-65d6-424e-8ad6-70bbbe1b7ddd" />
+<img width="1901" height="1036" alt="image" src="https://github.com/user-attachments/assets/8fabc9aa-521e-4b0b-b6a3-140f64de534a" />
+
+
 # 🎯 Project Goals
 
 The objectives of this project were:
