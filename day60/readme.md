@@ -1,7 +1,5 @@
 # 📨 Flask Forms & POST Requests
 
-![Project Preview](screenshots/project-preview.png)
-
 ## 📌 Project Overview
 
 This project was developed as part of **Day 60 of the 100 Days of Python Bootcamp**, focusing on handling **HTML forms** and **POST requests** in Flask.
@@ -9,6 +7,10 @@ This project was developed as part of **Day 60 of the 100 Days of Python Bootcam
 The objective of this project was to understand how web applications collect user input through forms, send data from the client to the server, and process that data using Flask routes. This project introduced the fundamentals of backend form handling, which is an essential concept in modern web development.
 
 ---
+
+<img width="1892" height="713" alt="image" src="https://github.com/user-attachments/assets/d4b75e5b-fa65-4932-8e19-edd43564aaa7" />
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/b31e9c33-ef2c-4361-ac44-72165dac5ec6" />
+
 
 # 🎯 Project Goals
 
