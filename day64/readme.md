@@ -1,7 +1,5 @@
 # 🎬 My Top 10 Movies - Flask Database Application
 
-![Project Preview](screenshots/project-preview.png)
-
 ## 📌 Project Overview
 
 **My Top 10 Movies** is a web application developed as part of **Day 64 of the 100 Days of Python Bootcamp**.
@@ -11,6 +9,10 @@ The application allows users to create and manage their personal movie ranking l
 This project builds upon previous database concepts by implementing a complete CRUD-based application where users can add, update, view, and delete movie records.
 
 ---
+
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/477e8576-5749-4c12-b140-12b580a7196b" />
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/a2cc071f-8e93-4956-9b3e-90a80abff7ea" />
+
 
 # 🎯 Project Goals
 
